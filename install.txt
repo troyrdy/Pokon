@@ -1,5 +1,3 @@
 requests
-time
-threading
-os
+pyfiglet
 colorama
